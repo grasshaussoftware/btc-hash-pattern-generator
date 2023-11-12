@@ -1,13 +1,14 @@
-``````
 # Bitcoin Hash Pattern Generator
 
 ## Introduction
-Bitcoin Hash Pattern Generator is a React-based web application that creates unique visual patterns for Bitcoin public key addresses. By entering a Bitcoin public key address, users can generate a pattern of black and white blocks, each uniquely representing the hash of the wallet. The application is accessible at [pixelmaker.xyz](https://pixelmaker.xyz).
+Bitcoin Hash Pattern Generator is a React-based web application that allows users to visualize Bitcoin public key addresses in a unique and artistic way. By inputting a Bitcoin public key address, the application generates a distinct pattern of black and white blocks, representing the unique hash of the wallet. This tool serves not only as a means of artistic expression but also aids in the visual identification of Bitcoin addresses. The application is accessible at [pixelmaker.xyz](https://pixelmaker.xyz).
+
+![Application Screenshot](path_to_screenshot.png)
 
 ## Features
-- **Generate Unique Patterns**: Create a distinct visual pattern for any given Bitcoin public key address.
-- **SVG Format**: Patterns are generated in SVG format for better scaling and clarity.
-- **Customizable Size**: Users can specify the size of the generated pattern.
+- **Generate Unique Patterns**: Each Bitcoin public key address translates into a unique visual pattern.
+- **SVG Format**: The patterns are rendered in SVG format, ensuring high-quality scaling and clarity.
+- **Customizable Size**: The size of the generated pattern can be adjusted according to user preference.
 
 ## Getting Started
 To get started with the Bitcoin Hash Pattern Generator, follow these steps:
@@ -18,23 +19,31 @@ To get started with the Bitcoin Hash Pattern Generator, follow these steps:
 
 ### Installation
 1. Clone the repository:
-   ```
-   git clone https://github.com/grasshaussoftware/bitcoin-hash-pattern-generator.git
-   ```
+
+git clone https://github.com/grasshaussoftware/bitcoin-hash-pattern-generator.git
+
+css
+
 2. Navigate to the project directory:
-   ```
-   cd bitcoin-hash-pattern-generator
-   ```
+
+cd bitcoin-hash-pattern-generator
+
+markdown
+
 3. Install dependencies:
-   ```
-   npm install
-   ```
+
+npm install
+
+shell
+
 
 ### Running the Application
 To run the application locally:
-```
+
 npm start
-```
+
+less
+
 The application will be available at `http://localhost:3000`.
 
 ## Usage
@@ -49,7 +58,7 @@ The application will be available at `http://localhost:3000`.
 Contributions to the Bitcoin Hash Pattern Generator are welcome. Please ensure that your pull requests are well-documented and tested.
 
 ## License
-This project is licensed under the GNU 3.0 Public License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - Identicon.js: Used for generating the visual patterns.
@@ -57,5 +66,3 @@ This project is licensed under the GNU 3.0 Public License - see the [LICENSE](LI
 
 ## Contact
 For any queries or contributions, please contact [deusopus@duck.com](mailto:deusopus@duck.com).
-
-``````
