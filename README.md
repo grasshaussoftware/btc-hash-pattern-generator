@@ -1,4 +1,4 @@
-```markdown
+``````
 # Bitcoin Hash Pattern Generator
 
 ## Introduction
@@ -56,9 +56,6 @@ This project is licensed under the GNU 3.0 Public License - see the [LICENSE](LI
 - React: The core framework for building the application.
 
 ## Contact
-For any queries or contributions, please contact [your-email@example.com](mailto:your-email@example.com).
+For any queries or contributions, please contact [deusopus@duck.com](mailto:deusopus@duck.com).
 
----
-
-
-```
+``````
