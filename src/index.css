@@ -1,0 +1,10 @@
+/* index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add custom styles or override Tailwind styles below */
+/* Example custom style */
+.custom-class {
+    background-color: #f4f4f4;
+}
