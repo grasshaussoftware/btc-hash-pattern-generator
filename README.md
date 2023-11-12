@@ -60,5 +60,5 @@ For any queries or contributions, please contact [your-email@example.com](mailto
 
 ---
 
-*Note: This README is a template and can be modified to better suit your project's needs.*
+
 ```
