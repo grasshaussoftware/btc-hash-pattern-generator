@@ -3,7 +3,7 @@
 ## Introduction
 Bitcoin Hash Pattern Generator is a React-based web application that allows users to visualize Bitcoin public key addresses in a unique and artistic way. By inputting a Bitcoin public key address, the application generates a distinct pattern of black and white blocks, representing the unique hash of the wallet. This tool serves not only as a means of artistic expression but also aids in the visual identification of Bitcoin addresses. The application is accessible at [pixelmaker.xyz](https://pixelmaker.xyz).
 
-![Application Screenshot](pixelmaker.xyz/example.png)
+![Application Screenshot](screenshot.png)
 
 ## Features
 - **Generate Unique Patterns**: Each Bitcoin public key address translates into a unique visual pattern.
