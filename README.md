@@ -20,7 +20,7 @@ To get started with the Bitcoin Hash Pattern Generator, follow these steps:
 ### Installation
 1. Clone the repository:
 
-git clone https://github.com/grasshaussoftware/bitcoin-hash-pattern-generator.git
+`git clone https://github.com/grasshaussoftware/bitcoin-hash-pattern-generator.git`
 
 css
 
