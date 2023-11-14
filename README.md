@@ -26,13 +26,13 @@ css
 
 2. Navigate to the project directory:
 
-cd bitcoin-hash-pattern-generator
+`cd bitcoin-hash-pattern-generator`
 
-markdown
+```markdown
 
 3. Install dependencies:
 
-npm install
+`npm install`
 
 shell
 
@@ -40,7 +40,7 @@ shell
 ### Running the Application
 To run the application locally:
 
-npm start
+`npm start`
 
 less
 
