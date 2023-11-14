@@ -28,21 +28,16 @@ css
 
 `cd bitcoin-hash-pattern-generator`
 
-```markdown
+
 
 3. Install dependencies:
 
 `npm install`
 
-shell
-
-
 ### Running the Application
 To run the application locally:
 
 `npm start`
-
-less
 
 The application will be available at `http://localhost:3000`.
 
